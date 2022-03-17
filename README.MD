@@ -25,3 +25,12 @@ Soy un underline 2
 - Esto es un item de lista desordenada
 - Esto es un item de lista desordenada
 - Esto es un item de lista desordenada
+
+# Links
+- <a href="http://google.com">Google</a>
+- [Google markdown](http://google.com)
+- [Index](index.html)
+- [Markdoun](#listas)
+
+# imagenes
+![Logo GIT](https://cdn-icons-png.flaticon.com/512/25/25231.png)
