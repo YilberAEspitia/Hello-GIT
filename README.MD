@@ -80,3 +80,20 @@ HTML
     </tr>
     </tbody>
 </table>
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo
+> Esto es una cita
+
+Esto es otro texto que no se relaciona con la cita anterior
+> Esto es otr cita
+
+# Lineas divisoras
+Esto es un texto dividido por guiones medios
+
+---
+Esto es otro texto dividido por asteriscos
+
+***
+
+Esto es otro texto dividido por guiones bajos
