@@ -30,7 +30,7 @@ Soy un underline 2
 - <a href="http://google.com">Google</a>
 - [Google markdown](http://google.com)
 - [Index](index.html)
-- [Markdoun](#listas)
+- [Markdown](#listas)
 
 # imagenes
 <!--![Logo GIT](https://cdn-icons-png.flaticon.com/512/25/25231.png)-->
@@ -50,3 +50,33 @@ var txt1 = "What a very ";
 var txt2 = "nice day";
 document.getElementById("demo").innerHTML = txt1 + txt2;
 ```
+
+# Tablas
+Markdown
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Yilber | Arley | 1035 |
+| Espitia | Florido | 1036 |
+
+HTML
+<table>
+    <thead>
+    <tr>
+        <th>Nombre</th>
+        <th>Apellido</th>
+        <th>Documento</th>
+    </tr>
+    <thead>
+    <tbody>
+    <tr>
+        <td>Yilber</td>
+        <td>Arley</td>
+        <td>1035</td>
+    </tr>
+    <tr>
+        <td>Espitia</td>
+        <td>Florido</td>
+        <td>1036</td>
+    </tr>
+    </tbody>
+</table>
