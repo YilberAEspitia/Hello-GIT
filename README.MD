@@ -10,9 +10,18 @@ Soy un underline 1
 Soy un underline 2
 ==
 
+# Formatos enfasis
 - Formato *italica* de la primer forma
 - Formato _italica_ de la segunda forma
 - Formato **bold o strong** de la primer forma
 - Formato __bold o strong__ de la segunda forma
 - Formato ~~tachado~~, formato normal
 - Aquí podemos usar *formato italico*, pero **tambien bold**
+
+# Listas
+1. Esto es un item de lista ordenada
+2. Esto es un item de lista ordenada
+3. Esto es un item de lista ordenada
+- Esto es un item de lista desordenada
+- Esto es un item de lista desordenada
+- Esto es un item de lista desordenada
