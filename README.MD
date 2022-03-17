@@ -97,3 +97,13 @@ Esto es otro texto dividido por asteriscos
 ***
 
 Esto es otro texto dividido por guiones bajos
+
+# Saltos de linea
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo parrafo.
+
+Esto es nuestro segundo parrafo.
+- Lista
+
+- lista 2
