@@ -33,4 +33,20 @@ Soy un underline 2
 - [Markdoun](#listas)
 
 # imagenes
-![Logo GIT](https://cdn-icons-png.flaticon.com/512/25/25231.png)
+<!--![Logo GIT](https://cdn-icons-png.flaticon.com/512/25/25231.png)-->
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100" height="100">
+
+# Code snippets
+Ruby
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+puts markdown.to_html
+```
+Javascript
+```javascript
+var txt1 = "What a very ";
+var txt2 = "nice day";
+document.getElementById("demo").innerHTML = txt1 + txt2;
+```
